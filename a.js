@@ -1,1 +1,1 @@
-console.log('be');
+let a = 1;
